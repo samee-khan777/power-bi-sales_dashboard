@@ -2,6 +2,12 @@
 
 A modern and interactive **Power BI dashboard** for visualizing global sales performance — featuring KPIs, trends, and region-based insights.
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](./## 🖼️ Dashboard Preview
+
+![Dashboard Preview](./dashboard-preview.png)
+
 ## 🧠 Key Features
 - Dynamic KPIs: Total Sales, Orders, Quantity, and Customers  
 - Interactive filters for Year, Country, and Deal Size  
