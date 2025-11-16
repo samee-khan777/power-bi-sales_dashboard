@@ -10,7 +10,7 @@ A modern and interactive **Power BI dashboard** for visualizing global sales per
 
 ---
 
-![Dashboard Preview](./dashboard%20review.png)
+![Dashboard Preview](./sales%20dashboard.png)
 
 ## 🛠️ Tools Used
 - **Power BI** for data visualization  
